@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator using HTML and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "author": "천마",
+  "license": "GPL 3.0",
+  "dependencies": {
+    "electron": "^8.2.1",
+    "node-os-utils": "^1.2.2"
+  }
+}
