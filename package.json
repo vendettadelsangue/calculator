@@ -9,7 +9,7 @@
   "author": "천마",
   "license": "GPL 3.0",
   "dependencies": {
-    "electron": "^8.2.1",
+    "electron": "^8.5.1",
     "node-os-utils": "^1.2.2"
   }
 }
